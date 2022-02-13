@@ -1,6 +1,9 @@
 # ReplayMod
 A Minecraft mod to record game sessions and replay them afterwards from any perspective.
 
+# My Fork
+My fork of replay mod is a fork made for [Amethyst Client](https://amethystclient.xyz)
+
 ## Building
 Make sure your sub-projects are up-to-date: `git submodule update --init --recursive`
 
